@@ -1,0 +1,25 @@
+.feedbackTitle {
+  font-weight: 700;
+}
+
+.feedbackContorls,
+.feedbackStatistic {
+  display: flex;
+  gap: 8px;
+}
+
+.btn {
+  width: 60px;
+  padding: 4px;
+
+  font-size: 12px;
+}
+
+.feedbackStatistic {
+  flex-direction: column;
+}
+
+.stat {
+  margin: 0;
+  padding: 0;
+}
