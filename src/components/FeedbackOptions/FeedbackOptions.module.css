@@ -1,0 +1,12 @@
+.feedbackContorls {
+  display: flex;
+  gap: 8px;
+}
+
+.btn {
+  width: 60px;
+  padding: 4px;
+
+  font-size: 12px;
+  text-transform: capitalize;
+}
